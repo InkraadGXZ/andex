@@ -175,3 +175,60 @@
 .no-csspointerevents .nice-select.open .list {
   display: block;
 }
+.web_taital {
+  font-size: 24pt;
+}
+.logo{
+  width: 100%;
+  float: left;
+}
+.web_text{
+  width: 100%;
+  float: left;
+  font-size: 48px;
+  padding-top: 160px;
+}
+.margin-top-20{
+  margin-top: 20px;
+}
+.donec_text {
+  font-size: 17px;
+  color: #110f0a;
+  margin-left: 0;
+  padding-bottom: 20px;
+  position: relative;
+}
+.bannen_inner {
+  width: 100%;
+  float: left;
+}
+.taital_main {
+  width: 100%;
+  float: left;
+  margin-top: 30px;
+}
+.get_bg {
+  background-color: #2ba879;
+  padding: .5rem 1rem;
+  font-size: 1.25rem;
+  line-height: 1.5;
+  border-radius: .3rem;
+  padding: 11px 16px 14px 15px;
+  margin-left: 25px;
+}
+a:hover {
+  color: #fff;
+}
+.get_bga:hover {
+  color: #000;
+}
+.get_gba:not(:disabled):not(.disabled):active, .get_gba:not(:disabled):not(.disabled).active,
+.get_gba:not(:disabled):not(.disabled):focus, .show>.get_bga.dropdown-toggle {
+  background-color: #1d2124;
+  border-color: #17a11d;
+}
+
+button.btn.btn-primary, button.btn.btn-primary:hover, button.btn.btn-primary:focus {
+  background: #136af8;
+  padding: 10 40px;
+}
